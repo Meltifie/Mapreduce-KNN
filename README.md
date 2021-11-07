@@ -98,7 +98,7 @@ KNN不需要训练和求解参数，是一个天然的分类器。
 
 运用python中的matplotlib对结果进行可视化，选取k=3，sample 1进行展示：
 
-![](\figure\k=3\k=3 sample 1.png)
+![](figure/k=3/k=3 sample 1.png)
 
 由于数据有4个属性，所以选取三个属性设为xyz轴，用第四个属性作为散点图圈的大小。三种数据用不同的颜色展示。
 
